@@ -4,7 +4,7 @@ Coursework for MMART 110: Scriptwriting and Storyboarding (Fall 2025) at Berkele
 
 ---
 
-### PLANNED 
+### Folder Structure 
 
 mmart110-script-storyboard/
 ├── README.md
@@ -29,4 +29,4 @@ mmart110-script-storyboard/
 └── media/
     └── visuals, thumbnails, reference images
 
----
+
