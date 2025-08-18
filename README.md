@@ -3,6 +3,9 @@ Coursework for MMART 110: Scriptwriting and Storyboarding (Fall 2025) at Berkele
 
 
 --
+
+
+
 mmart110-script-storyboard/
 ├── README.md
 ├── syllabus/
