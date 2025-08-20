@@ -249,6 +249,8 @@ Assignment Roll Call Attendance
 
 ### Folder Structure 
 
+```
+
 mmart110-script-storyboard/
 ├── README.md
 ├── syllabus/
@@ -272,4 +274,4 @@ mmart110-script-storyboard/
 └── media/
     └── visuals, thumbnails, reference images
 
-
+```
