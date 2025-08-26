@@ -127,8 +127,13 @@ He rises slowly, brushing dust from his clothes. He picks up a torn blueprint, s
 - Office hours (see course front page).  
 - Ask peers via Canvas Inbox.
 
+
+```
   /week02_action/
 │
-├── README.md        # Instructions + overview
-├── narrative.md     # Sample student narrative
-└── screenplay.md    # Sample screenplay (based on narrative)
+├── README.md             # Instructions + overview
+├── narrative.md          # Sample student narrative
+├── screenplay.md         # Sample screenplay (based on narrative)
+├── titlepage_template.md # Blank reusable template
+└── checklist.md          # Step-by-step task list
+```
