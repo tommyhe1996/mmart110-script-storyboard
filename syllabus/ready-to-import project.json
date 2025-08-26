@@ -1,0 +1,47 @@
+{
+  "name": "MMART 110 Study Plan — Fall 2025",
+  "description": "Weekly tracker for class meetings, assignments, office hours, and reflections for Berkeley City College MMART 110.",
+  "columns": [
+    {
+      "name": "📌 To-Do",
+      "cards": [
+        { "note": "Week 1 — Attend class (8/18, 9:30am–12:20pm)" },
+        { "note": "Week 1 — Submit 1.4 Introduce Yourself (due 8/22, 11:59pm)" },
+        { "note": "Week 1 — Submit 1.5 Incoming Questionnaire (due 8/22, 11:59pm)" },
+        { "note": "Week 2 — Attend class (8/25, 9:45am–12:20pm)" },
+        { "note": "Week 2 — Submit 2.4 Screenplay from Action Verb Story (due 9/1)" },
+        { "note": "Week 2 — Participate in 2.5 Student Lounge (due 9/1)" },
+        { "note": "Week 3 — No class (Labor Day)" },
+        { "note": "Week 4 — Attend class (9/8, 9:45am–12:20pm)" },
+        { "note": "Week 4 — Office Hour (12:30–1:30pm)" },
+        { "note": "Week 5 — Attend class (9/15)" },
+        { "note": "Week 6 — Attend class (9/22)" },
+        { "note": "Week 7 — Attend class (9/29)" },
+        { "note": "Week 8 — Attend class (10/6)" },
+        { "note": "Week 9 — Attend class (10/13)" },
+        { "note": "Week 10 — Attend class (10/20)" },
+        { "note": "Week 11 — Attend class (10/27)" },
+        { "note": "Week 12 — Attend class (11/3)" },
+        { "note": "Week 13 — Attend class (11/10)" },
+        { "note": "Week 14 — Attend class (11/17)" },
+        { "note": "Week 15 — Attend class (11/24)" },
+        { "note": "Week 16 — Attend class (12/1)" },
+        { "note": "Week 17 — Final class (12/8)" },
+        { "note": "Week 17 — Submit Final Portfolio" },
+        { "note": "Week 17 — Extra Credit (optional)" }
+      ]
+    },
+    {
+      "name": "✏️ In Progress",
+      "cards": [
+        { "note": "Move weekly assignments here when working on them." }
+      ]
+    },
+    {
+      "name": "✅ Done",
+      "cards": [
+        { "note": "Completed assignments and reflections go here." }
+      ]
+    }
+  ]
+}
