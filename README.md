@@ -1,25 +1,26 @@
-# mmart110-script-storyboard
+## mmart110-script-storyboard
 Coursework for MMART 110: Scriptwriting and Storyboarding (Fall 2025) at Berkeley City College. Includes script drafts, storyboards, assignments, and final project.
 
-
 ---
-Scriptwriting and Storyboarding
+##Scriptwriting and Storyboarding
 Berkeley City College
-MMART 110
-In-Person Class Meetings
+MMART 110 
+
+##In-Person Class Meetings
 We meet on Mondays, on the following schedule, in room 316 on the Berkeley City College Campus
 
 8/18 9:30am-12:20pm
 8/25, class will start at 9:45am.
 9/1 is Labor Day, so no class then.
 9/8-12/8, our course meets every Monday 9:45am-12:20pm
-Office Hours
+
+##Office Hours
 Mondays
 12:30-1:30 room 316 (pending availability) and on Zoom -- https://peralta-edu.zoom.us/j/91328455058
 
 Office hour will begin on 9/8. I will then be available on Mondays 12:30-1:30 in room 316 (pending availability) at BCC and on Zoom.Please send me an Inbox message if you need to set up an alternative time.
 
-Instructor
+##Instructor
 Becca Wolff
 Email: rwolff@peralta.edu
 Text: (401)569-3568
@@ -30,13 +31,13 @@ The student body you are a part at BCC is far more representative of our nation 
 
 You can contact me:
 
-By Canvas Inbox
+##By Canvas Inbox
 I reply to inbox messages within 24 hours Sunday - Friday
 rwolff@peralta.edu
 I reply to email within 72 hours, 7 days/week
 Be sure your email in Canvas is correct. I will send special announcements (or warnings) using email.
 
-Course Objectives
+##Course Objectives
 Generate Stories for Media
 Generate stories by engaging your personal experience, creative influences, pure imagination and/or role play.
 Structure Conventional Stories for Media
@@ -54,7 +55,7 @@ Write a script that tells your story effectively in a particular medium. In a fi
 Translate stories into different script formats for different media – we will concentrate mostly on scripts for film, but you will also translate your story to other media that may include radio, commercial (branded) content and/or interactive media.
 You will finish the course with one portfolio level treatment and script & one portfolio level storyboard for a producible, 3-minute film.
 
-Final Grade
+##Final Grade
 This class may be taken for pass/no pass or a grade.
 
 25% Class participation-- discussions, responses to others' work, attendance at office hours, communication with classmates and instructor
@@ -63,12 +64,12 @@ This class may be taken for pass/no pass or a grade.
 10% Final storyboard
 10% Final Portfolio
 
-Academic Honesty
+##Academic Honesty
 Please know that by enrolling in this course, you are promising to adhere to the following statement:
 
 I understand that honesty and integrity are key components of the academic process. All students, including myself, are expected to be honest and ethical at all times in our pursuit of academic goals. We must respect others’ rights and property and create an environment where everyone can succeed through the fruits of their efforts. No cheating, plagiarism, fraud, and/or lying will be tolerated. I understand and acknowledge that any student found in violation of the anti-cheating policy will receive an “F” for that assignment or exam, and/or an “F” in the course. Other disciplinary actions may also be taken by my parent(s)/guardian(s), my teacher(s), and/or my school, including suspension or expulsion. In addition, my permanent academic record may be affected, which will be seen by colleges and universities to which I intend to apply. I hereby pledge to learn honestly -- not to cheat, plagiarize, fabricate information or citations, assist others with academic dishonesty, or submit the work of others. In sum, I pledge to act in an honorable and ethical manner. 
 
-AI Policy
+##AI Policy
 This document outlines an AI policy I adhere to.
 
 If you have questions or want to challenge or discuss anything here, please get in touch.
@@ -86,24 +87,24 @@ You share work with your fellow students in this course.
 You mutually give feedback based upon the presumption that you wrote what you say you wrote, and give you ideas for revision based on that.
 My expectation is that you will honor this policy. 
 
-Course Structure
+##Course Structure
 The course consists of 4 learning units, each with their own learning objective and a number of modules within them.
 
-Lecture/Discussions/Activities: We'll spend approximately 2.5 hours together each week at the time and place listed above. This time is in person is requires for the course.
+##Lecture/Discussions/Activities: We'll spend approximately 2.5 hours together each week at the time and place listed above. This time is in person is requires for the course.
 Homework: Expect 2-3 hours on "homework" -- that's usually a writing exercise and sometimes analysis or critique of your own or others' work.
 In-Person Class/Online Components
 We meet in person each week. Check Canvas after every class to review material and to complete homework assignments.
 
 Please see the video on 1.2 How this course works for a more extensive overview of how to navigate our course. 
 
-Questions I answer there
+##Questions I answer there
 What's the nature of this course?
 What do we do in-person?
 What's on Canvas?
 What's required? (assignments)
 What's recommended (modules, inbox)
-SCHEDULE
-Class begins 1/18/2025
+##SCHEDULE
+Class begins 08/18/2025
 This course is arranged in MODULES.
 
 Modules = buckets of learning resources, homework and other interactions organized around a specific goal
@@ -121,7 +122,7 @@ Modules 9-13
 Unit 4 -- Alternative Script Formats & Review
 Modules 13-16
 
-Course Navigation
+##Course Navigation
 How to prepare to start this course
 
 You can find due dates for all assignments for this class at the bottom of this syllabus page.
@@ -148,7 +149,7 @@ To navigate through the modules, click on the first item ("Unit 1: Principles of
 Unless otherwise noted, all items must be completed in chronological order.
 Once completed a green checkmark will appear (as shown in first item below)
 
-Other
+##Other
 Grades
 track your progress
 pick up feedback on past assignments
@@ -157,15 +158,15 @@ get in touch with your classmates
 clicking on People opens up a list of names of your classmates and teacher(s)
 click on the envelope icon to send a message through Canvas Inbox
 
-Textbook
+##Textbook
 There is no textbook for this course. All materials are free and accessible through Modules.
 
-Late Work
+##Late Work
 I accept late work for full credit on a case-by-case basis.
 
 Please be aware that I reserve the right to refuse to give credit for late work, but if I do, I will tell you why.
 
-Student Support
+##Student Support
 Further Enrollment and Counseling Info
 To learn more about the ins and outs of enrollment, you can access the Admissions and Records FAQ here Links to an external site..
 
@@ -180,33 +181,33 @@ To reset your Portal password, email helpdesk@cc.peralta.edu
 Important Notes
 If you are a student with a disability, please let me know about your needed accommodations immediately. If you are a new student and need evaluation or verification of your needed accommodations, please contact Disability Services and Programs for Students.
 
-Disability Statement
+##Disability Statement
 Berkeley City College is committed to providing reasonable accommodations for all individuals with disabilities. Any student with a documented disability needing academic accommodations is requested to speak with Berkeley City College Student Accessibility Services (SAS) Links to an external site. and the instructor as early in the semester as possible.
 
 To access services, please contact PSSD at pssdinfo@peralta.edu. You can also leave a message at (510) 981-2812 or (510) 981-2813.
 
 I encourage any student who suspect they may have a learning disability to contact PSSD for assistance. All conversations will remain confidential.
 
-Library
+##Library
 The Berkeley City College Library offers books, videos, online resources, as well as study space. 
 
-Resources for Study/Life Skills
+##Resources for Study/Life Skills
 Tutors
 For this spring, MMART will be setting up tutors for classes in the LRC – Learning Resource center – you will be able to make an appointment with a tutor during the week outside of class hours.
 
 This is a link to BCC's Learning Resources Center (LRC) Links to an external site.
 
-Want to Be a Tutor?
+##Want to Be a Tutor?
 We have a few students set up already, if tutoring is something that you are interested in then send me your resume and transcripts and class you would like to tutor for and the MMART Dept. Chairs will review and see what slots we have available.
 
-Time Management
+##Time Management
 David Allen's system of "Getting Things Done"
 
 https://youtu.be/kOSFxKaqOm4
 
  
 
-Course Summary:
+##Course Summary:
 Date	Details	Due
 Mon Aug 18, 2025	Calendar Event MMART 110 -- in-person Class in Room 316	9:30am to 12:20pm
 Fri Aug 22, 2025	Discussion Topic 1.4 Introduce yourself	due by 11:59pm
@@ -244,6 +245,7 @@ Mon Dec 8, 2025	Calendar Event MMART 110 -- In-Person Class	9:45am to 12:20pm
 Assignment Extra Credit	 
 Assignment Roll Call Attendance	 
 
+---
 
 ---
 # 🎬 MMART 110 – Scriptwriting and Storyboarding (Fall 2025)
