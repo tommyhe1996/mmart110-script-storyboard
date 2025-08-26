@@ -125,4 +125,10 @@ He rises slowly, brushing dust from his clothes. He picks up a torn blueprint, s
 - Review module material.  
 - Contact instructor: **rwolff@peralta.edu**  
 - Office hours (see course front page).  
-- Ask peers via Canvas Inbox.  
+- Ask peers via Canvas Inbox.
+
+  /week02_action/
+│
+├── README.md        # Instructions + overview
+├── narrative.md     # Sample student narrative
+└── screenplay.md    # Sample screenplay (based on narrative)
