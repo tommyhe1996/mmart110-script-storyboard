@@ -142,3 +142,40 @@ Discussion (due Sunday, 11:59pm):
 - Connect with fellow students via Canvas Inbox  
 
 ---
+
+# ✍️ Starter Template – Draft + Analysis  
+
+## Rough Draft Narrative (≤ 500 words)  
+*(Paste your 1-page narrative draft here in paragraph form)*  
+
+---
+
+## 3-Act Analysis of My Story  
+
+**Setup (Act I):**  
+-  
+
+**Main Action (Act II):**  
+-  
+
+**Resolution (Act III):**  
+-  
+
+**Inciting Incident:**  
+-  
+
+**Point of No Return:**  
+-  
+
+**Climax:**  
+-  
+
+---
+
+## Dramatic Tension Breakdown  
+
+- **Protagonist:**  
+- **Objective:**  
+- **Antagonist:**  
+
+---
