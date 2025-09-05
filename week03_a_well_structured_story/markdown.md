@@ -1,5 +1,22 @@
 # Week 03 – A Well-Structured Story  
 
+## 📑 Table of Contents  
+- [Module 3: Narrative Structure](#module-3-narrative-structure)  
+- [Module Objectives](#module-objectives)  
+- [Module Overview](#module-overview)  
+- [Deadlines](#deadlines)  
+- [3.1 Generating Stories](#31-generating-stories)  
+- [3.2 Rough Draft Narrative](#32-rough-draft-narrative-due-sep-3-1159pm)  
+- [3.3 3-Act Structure & Plot Points](#33-3-act-structure--plot-points)  
+- [3.4 Activity – Analyze Your 3 Acts](#34-activity--analyze-your-3-acts)  
+- [3.5 Dramatic Tension in Your Story](#35-dramatic-tension-in-your-story)  
+- [3.6 Narrative for Semester Script (Final Draft)](#36-narrative-for-semester-script-final-draft)  
+- [3.7 Week 3 – Student Lounge](#37-week-3--student-lounge)  
+- [How to Get Help](#how-to-get-help)  
+- [✍️ Starter Template – Draft + Analysis](#️-starter-template--draft--analysis)  
+
+---
+
 ## Module 3: Narrative Structure  
 
 📌 *Note: No lecture this week due to Labor Day (9/1). All resources available in Canvas.*  
