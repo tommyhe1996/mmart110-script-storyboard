@@ -179,3 +179,21 @@ Discussion (due Sunday, 11:59pm):
 - **Antagonist:**  
 
 ---
+
+```
+
+mmvi-9a-video-production-fall2025/
+│
+├── week01/
+│   └── week01_intro.md
+│
+├── week02/
+│   ├── week02_action.md
+│   └── week02_note_assignment.md
+│
+├── week03/
+│   └── week03_a_well_structured_story.md   ← (new file)
+│
+└── README.md
+
+```
