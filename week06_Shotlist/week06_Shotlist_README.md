@@ -1,3 +1,14 @@
+---
+title: "Week 06 — Shotlist"
+author: "Zhonghuang He (Tommy)"
+course: "MMART 110 — Scriptwriting & Storyboarding"
+module: "Module 10: Making a Shotlist"
+repo: "mmart110-script-storyboard"
+instructor: "Rebecca Wolff"
+date: "October 27, 2025"
+version: "1.0"
+---
+
 # Week 06 — Shotlist  
 **Course:** MMART 110 — Scriptwriting & Storyboarding  
 **Module 10: Making a Shotlist**  
