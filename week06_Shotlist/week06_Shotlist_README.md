@@ -103,6 +103,26 @@ Lay out your shotlist based on your script. Include shot sizes and types that ef
 
 ---
 
+## 🧾 Sample Shotlist Table Template
+
+Use the following Markdown table to organize your shotlist. You can copy, modify, or expand it as needed:
+
+| Page # | Scene # | Shot # | Shot Size | Shot Type / Framing | Description / Action | Camera Angle | Notes |
+|---------|----------|---------|------------|----------------------|----------------------|---------------|-------|
+| 1 | 1 | 1 | WS | Master | Establish classroom; protagonist enters | Eye-level | Opening master |
+| 1 | 1 | 2 | MS | Two Shot | Dialogue between protagonist & classmate | Eye-level | Match cut from Shot 1 |
+| 1 | 1 | 3 | CU | Single | Protagonist’s reaction to question | Slight Low Angle | Emotion close-up |
+| 2 | 2 | 4 | MS | Over-the-Shoulder (OTS) | Teacher at board, writing formula | High Angle | Transition to next scene |
+
+💡 **Tip:** You can also include abbreviations like:
+- CU (Close-Up)  
+- MS (Medium Shot)  
+- WS (Wide Shot)  
+- OTS (Over-the-Shoulder)  
+- LA/HA (Low/High Angle)  
+
+---
+
 ## 🗂 How to Submit & View Feedback
 1. Upload your completed **Shotlist PDF** by **11:59 PM, October 27**.  
 2. Feedback available via:
